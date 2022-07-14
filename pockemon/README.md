@@ -1,9 +1,10 @@
-# React TypeScript Starter Pack
+[DEMO LINK](https://Andriyk0.github.io/pockemon/)
 
-To use this template click `Use this template`
+Реализовать сайт с покемонами источник - https://pokeapi.co/   
+на странице с покемонами должны быть обязательно:
+- поиск по имени
+- сортировка по типу
+- отображение в формате списка (или плитки) всех покемонов, при нажатии должна открываться детальная информация
+- в детальной информации - обязательные поля - имя, изображения(фронт), умения - moves, stats - пагинация (можно по прокрутке либо постранично) - адаптивная верстка, анимации и переходы к пожеланию  
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Технологии, обязательные к использованию - React, es-lint (можно любой на выбор), axios, redux (без toolkit) + thunk, sass/scss Можно использовать другие библиотеки - material-ui, bootstrap и т.д.  Будет плюсом - использование кастомных хуков, юнит-тесты, типизация.
