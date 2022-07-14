@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  top: 0;
+  left: 0;
+
+  &__container {
+    max-width: 1920px;
+    height: 150px;
+    margin-bottom: 30px;
+  }
+
+  &__logo-image {
+    height: 100%;
+  }
+}
