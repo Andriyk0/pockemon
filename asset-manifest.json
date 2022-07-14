@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pockemon/static/css/main.41f5477a.chunk.css",
+    "main.js": "/pockemon/static/js/main.991ba890.chunk.js",
+    "main.js.map": "/pockemon/static/js/main.991ba890.chunk.js.map",
+    "runtime-main.js": "/pockemon/static/js/runtime-main.32f314ff.js",
+    "runtime-main.js.map": "/pockemon/static/js/runtime-main.32f314ff.js.map",
+    "static/css/2.cf9b0a71.chunk.css": "/pockemon/static/css/2.cf9b0a71.chunk.css",
+    "static/js/2.65bbdfd6.chunk.js": "/pockemon/static/js/2.65bbdfd6.chunk.js",
+    "static/js/2.65bbdfd6.chunk.js.map": "/pockemon/static/js/2.65bbdfd6.chunk.js.map",
+    "index.html": "/pockemon/index.html",
+    "static/css/2.cf9b0a71.chunk.css.map": "/pockemon/static/css/2.cf9b0a71.chunk.css.map",
+    "static/css/main.41f5477a.chunk.css.map": "/pockemon/static/css/main.41f5477a.chunk.css.map",
+    "static/js/2.65bbdfd6.chunk.js.LICENSE.txt": "/pockemon/static/js/2.65bbdfd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32f314ff.js",
+    "static/css/2.cf9b0a71.chunk.css",
+    "static/js/2.65bbdfd6.chunk.js",
+    "static/css/main.41f5477a.chunk.css",
+    "static/js/main.991ba890.chunk.js"
+  ]
+}
